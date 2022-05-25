@@ -19,9 +19,9 @@ Not in Scotland? [Find your local LLLGB group on laleche.org.uk](https://www.lal
 *   **Lanarkshire** — [LLLGB](https://www.laleche.org.uk/supportgroup/lll-lanarkshire/), [FB](https://www.facebook.com/LLLLanarkshire)
 *   **Shetland** — [LLLGB](https://www.laleche.org.uk/supportgroup/lll-sheltand/), [FB](https://www.facebook.com/lllshetland/)
 
-## Online meetings
+## Online meetings 🛋
 
-Join us for our new Scotland-wide Wednesday evening meetings! 🛋
+Join us for our new Scotland-wide Wednesday evening meetings! 
 
 Facilitated by LLLGB Leaders from across Scotland, join us for a cosy evening meeting from the comfort of your own home. All welcome from pregnancy onwards, come along with breastfeeding questions or just for a chat.
 
