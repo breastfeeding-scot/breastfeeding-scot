@@ -21,7 +21,7 @@ Not in Scotland? [Find your local LLLGB group on laleche.org.uk](https://www.lal
 
 ## Online meetings
 
-Join us for our new Scotland-wide Wednesday evening meetings!
+Join us for our new Scotland-wide Wednesday evening meetings! 🛋
 
 Facilitated by LLLGB Leaders from across Scotland, join us for a cosy evening meeting from the comfort of your own home. All welcome from pregnancy onwards, come along with breastfeeding questions or just for a chat.
 
@@ -30,6 +30,8 @@ Every first and third Wednesday of the month at 8pm. If you would like to attend
 * [first Wednesday of the month](https://us02web.zoom.us/meeting/register/tZIpc-utqzosEtyHDam4W7jphAu1g54ccAVM)
 * [third Wednesday of the month](https://us02web.zoom.us/meeting/register/tZUod-yhrjwpHdCNv0TYo6H2oKXFAb_6pnwG)
 
-## [Antenatal courses](https://llledinburgh.co.uk/antenatal-courses/)
+## [Antenatal courses](https://llledinburgh.co.uk/antenatal-courses/)🤰
 
-We also offer an online interactive antenatal course facilitated by Leaders across Scotland. All [information is on the LLL Edinburgh website](https://llledinburgh.co.uk/antenatal-courses/) at the moment, but is open to all in Scotland (and beyond with LLLGB).
+We also offer an online interactive antenatal course facilitated by Leaders across Scotland. All [information is on the LLL Edinburgh website](https://llledinburgh.co.uk/antenatal-courses/) at the moment, but is open to all in Scotland (and beyond with [LLLGB](https://www.laleche.org.uk/antenatal-courses/)).
+
+Contact <hello@LLLEdinburgh.co.uk> for more information.
