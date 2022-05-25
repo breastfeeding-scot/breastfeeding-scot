@@ -1,3 +1,8 @@
 baseURL = 'https://breastfeeding.scot'
 languageCode = 'en-gb'
 title = 'Breastfeeding support in Scotland'
+disableKinds = ["taxonomy", "taxonomyTerm"]
+disableHugoGeneratorInject = true
+enableGitInfo = true
+[goldmark.renderer]
+unsafe = true
