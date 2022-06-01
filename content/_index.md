@@ -27,10 +27,10 @@ Whether you are pregnant or breastfeeding a newborn or older child, online meeti
 
 * **1 June** All Leaders
 * **15 June** Nicole & Victoria
-* **6 July** Ellie, Victoria
-* **20 July** Sarah M, Ellie
+* **6 July** Ellie & Victoria
+* **20 July** Sarah M & Ellie
 * **3 August** Nicole
-* **17 August** Marion, Charlotte
+* **17 August** Marion & Charlotte
 
 ---
 
