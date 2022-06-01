@@ -7,7 +7,6 @@ title: La Leche League in Scotland
 
 ## List of Scottish [La Leche League GB](https://laleche.org.uk) groups 🤱
 
-* **Aberdeen** — [LLLGB](https://www.laleche.org.uk/supportgroup/lll-aberdeen/), [FB](https://www.facebook.com/LLLAberdeen/)
 * **Berwickshire** — [LLLGB](https://www.laleche.org.uk/supportgroup/lll-berwickshire/), [Website](https://berwickshire.breastfeeding.scot)
 * **East Dunbartonshire** — [LLLGB](https://www.laleche.org.uk/supportgroup/lll-east-dunbartonshire/), [FB](https://www.facebook.com/llleastdunbartonshire)
 * **Edinburgh** — [LLLGB](https://www.laleche.org.uk/supportgroup/la-leche-league-edinburgh/), [FB](https://www.facebook.com/LLLedinburgh/), [Website](https://llledinburgh.co.uk)
@@ -25,6 +24,13 @@ Not in Scotland? [Find your local LLLGB group on laleche.org.uk](https://www.lal
 Whether you are pregnant or breastfeeding a newborn or older child, online meetings can be a convenient, stress-free way of meeting other parents or asking any questions that are on your mind. Join LLL in Scotland from 1 June 2022 on our new evening Zoom, **every first and third Wednesday of the month from 8pm**.
 
 ### [Register here](https://us02web.zoom.us/j/81505907374?pwd=VW5KYXVkem1CSWpZUU5JOFA1SG9aZz09)
+
+* **1 June** All Leaders
+* **15 June** Nicole & Victoria
+* **6 July** Ellie, Victoria
+* **20 July** Sarah M, Ellie
+* **3 August** Nicole
+* **17 August** Marion, Charlotte
 
 ---
 
