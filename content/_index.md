@@ -25,12 +25,14 @@ Whether you are pregnant or breastfeeding a newborn or older child, online meeti
 
 ### [Register here](https://us02web.zoom.us/j/81505907374?pwd=VW5KYXVkem1CSWpZUU5JOFA1SG9aZz09)
 
-* **1 June** All Leaders
-* **15 June** Nicole & Victoria
-* **6 July** Ellie & Victoria
-* **20 July** Sarah & Ellie
-* **3 August** Nicole
-* **17 August** Marion & Charlotte
+* **7 September** Ellie & Victoria
+* **21 September** Charlotte & Ellie
+* **5 October** Marion & Nicole
+* **19 October**
+* **2 November**
+* **16 November**
+* **7 December**
+* **21 December**
 
 ---
 
