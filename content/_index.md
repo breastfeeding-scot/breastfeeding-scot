@@ -26,7 +26,6 @@ Whether you are pregnant or breastfeeding a newborn or older child, online meeti
 
 ### [Register here](https://us02web.zoom.us/j/81505907374?pwd=VW5KYXVkem1CSWpZUU5JOFA1SG9aZz09)
 
-* **21 September**
 * **5 October**
 * **19 October**
 * **2 November**
