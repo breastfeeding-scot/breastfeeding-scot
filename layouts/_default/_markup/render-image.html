@@ -1,1 +1,1 @@
-<div class="md-image"><img src="{{ .Destination | safeURL }}" alt="{{ .Text }}" {{ with .Title}} title="{{ . }}" {{ end }}></div>
+{{- print ""}}<span class="md-image"><img src="{{ (resources.GetMatch .Destination).RelPermalink }}" alt="{{ .Text }}" {{ with .Title}} title="{{ . }}" {{ end }}></span>{{ print "" -}}

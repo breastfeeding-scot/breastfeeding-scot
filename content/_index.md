@@ -1,6 +1,7 @@
 ---
 title: La Leche League in Scotland
 ---
+# ![](/lll-in-scotland.svg)
 # Find breastfeeding support in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
 ---
