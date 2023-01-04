@@ -1,10 +1,9 @@
 ---
 title: La Leche League in Scotland
 ---
-# ![](/lll-in-scotland.svg)
 # Find breastfeeding support in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
----
+- - -
 
 ## List of Scottish [La Leche League GB](https://laleche.org.uk) groups 🤱
 
@@ -18,7 +17,7 @@ title: La Leche League in Scotland
 
 Not in Scotland? [Find your local LLLGB group on laleche.org.uk](https://www.laleche.org.uk/find-lll-support-group/)
 
----
+- - -
 
 ## Online meetings 🛋
 
@@ -26,14 +25,14 @@ Whether you are pregnant or breastfeeding a newborn or older child, online meeti
 
 ### [Register here](https://us02web.zoom.us/j/81505907374?pwd=VW5KYXVkem1CSWpZUU5JOFA1SG9aZz09)
 
-* **5 October**
-* **19 October**
-* **2 November**
-* **16 November**
-* **7 December**
-* **21 December**
+* **4 January**
+* **18 January**
+* **1 February**
+* **15 February**
+* **1 March**
+* **15 March**
 
----
+- - -
 
 ## [Antenatal courses](https://llledinburgh.co.uk/antenatal-courses/)🤰
 
