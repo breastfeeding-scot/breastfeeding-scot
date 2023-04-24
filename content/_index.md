@@ -25,12 +25,12 @@ Whether you are pregnant or breastfeeding a newborn or older child, online meeti
 
 ### [Register here](https://us02web.zoom.us/j/81505907374?pwd=VW5KYXVkem1CSWpZUU5JOFA1SG9aZz09)
 
-* **4 January**
-* **18 January**
-* **1 February**
-* **15 February**
-* **1 March**
-* **15 March**
+* **3 May**
+* **17 May**
+* **7 June**
+* **21 June**
+* **5 July**
+* **19 July**
 
 - - -
 
