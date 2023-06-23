@@ -21,16 +21,8 @@ Not in Scotland? [Find your local LLLGB group on laleche.org.uk](https://www.lal
 
 ## Online meetings 🛋
 
-Whether you are pregnant or breastfeeding a newborn or older child, online meetings can be a convenient, stress-free way of meeting other parents or asking any questions that are on your mind. Join LLL in Scotland on Zoom **every first and third Wednesday of the month at the *new time* of 7pm**.
+We're taking a break from the Wednesday evening meetings over the summer. If you would like to use this time to arrange a 1:1 chat, please contact <hello@breastfeeding.scot>.
 
-### [Register here](https://us02web.zoom.us/j/81505907374?pwd=VW5KYXVkem1CSWpZUU5JOFA1SG9aZz09)
-
-* **3 May**
-* **17 May**
-* **7 June**
-* **21 June**
-* **5 July**
-* **19 July**
 
 - - -
 
