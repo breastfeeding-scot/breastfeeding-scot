@@ -22,3 +22,27 @@ collections:
       - label: Content
         name: body
         widget: markdown
+  - label: Site settings
+    name: site_settings
+    delete: false
+    editor: { preview: false }
+    files:
+      - label: Redirects
+        name: redirects
+        file: data/redirects.yaml
+        fields:
+          - label: Redirects
+            label_singular: Redirect
+            name: redirects
+            widget: list
+            summary: '{{ print "{{from}} → {{to}}" }}'
+            fields:
+              - label: From
+                name: from
+                widget: string
+                default: "/"
+                hint: "Should start with a ‘/’"
+              - label: To
+                name: to
+                widget: string
+                hint: "Should either start with a ‘/’ for this site, or ‘https://’ for another site"
