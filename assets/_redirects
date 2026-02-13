@@ -1,5 +1,5 @@
 {{- range site.Data.redirects.redirects -}}
-  {{- .from }} {{ .to }} 301 {{- print "\n" -}}
+  {{- .from }} {{ .to }} 301! {{- print "\n" -}}
 {{- end -}}
 {{- range site.AllPages -}}
   {{- $url := .RelPermalink -}}
